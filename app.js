@@ -8,3 +8,5 @@
 // alert("Welcome to Js Land...")
 // var checkBox = ("checkbox").outerHTML
 // alert("Happy Coding!\nPreventing this page for creating additional dialogs")
+// Chapter 01 Question 5
+// console.log(alert("Hello...I can run JS through my web browser's console"))
